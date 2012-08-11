@@ -1,0 +1,12 @@
+This is a little repository for a website to tell everyone
+to turn on IPv6 and thereby make NAT less of a problem.
+
+The current proposed strategy is:
+
+* Teredo/Miredo for most people
+
+There is a major usability problem with IPv6, which is the
+long addresses. I'd like to recommend a particular dyndns
+service. If necessary, the "behindnat" project will write it.
+
+-- Asheesh.
